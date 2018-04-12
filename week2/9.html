@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<script>
+function reverseArrayWithOutTemp(arr) {
+    var temp = [];
+    var j = 0;
+
+//Reversing array using inbuilt push and push.
+    var p = arr.length - 1;
+    console.log('The regular Array is');
+    console.log(arr);
+
+     var median = arr.length / 2;
+     console.log('Median -- > ' + arr[median]);
+
+    for (var j = 0; j < arr.length / 2; j++) {
+
+        var temp = arr[j];
+        arr[j] = arr[p];
+        arr[p] = temp;
+        p--;
+    }
+    console.log('The reversed array is  ');
+    console.log(arr);
+}
+
+var arr = [1, 2, 3, 4, 5,6,7];
+reverseArrayWithOutTemp(arr);
+</script>
+
+
+</html>
