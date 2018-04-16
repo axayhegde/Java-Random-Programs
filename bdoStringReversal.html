@@ -1,0 +1,32 @@
+<!-- This is to reverse a string using HTML tags along with JavaScript -->
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>String Reversal</title>
+</head>
+
+<body>
+<h2>Testing String Reversal using bdo tag and DOM manipulation</h2>
+<p id="unString">This is the test string to be reversed</p>
+<br/>
+
+<button class="btn btn-outline-dark" type="button" onclick="changeString()">Click to Change</button>
+
+<br/>
+<bdo dir="rtl" id="bdoString"></bdo>
+
+<script>
+
+    function changeString() {
+        var myStr = document.getElementById("unString").innerText;
+        console.log(myStr);
+        document.getElementById("bdoString").innerHTML = myStr;
+    }
+</script>
+
+
+</body>
+
+</html>
