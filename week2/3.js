@@ -17,4 +17,4 @@ function leftShift(myNum,leftShiftNumber){
 }
 
 //Calling the function
-leftShift(6,1);
+leftShift(3,2);
