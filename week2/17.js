@@ -21,4 +21,18 @@ function iterativeBinaryRepNumber(number) {
 
 }
 
-iterativeBinaryRepNumber(10);
+/*iterativeBinaryRepNumber(3);*/
+
+
+//Function to calculate decimal to binary using reccursion
+
+function reccursionBinary(number){
+    var binary;
+    if(number == 0){
+        return  0;
+    }else{
+        return (number % 2 + 10 * reccursionBinary(number / 2));
+    }
+}
+
+console.log(reccursionBinary(4));
