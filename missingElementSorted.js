@@ -1,4 +1,4 @@
-// Given a series of numbers find the missing element - Sorted Array
+// Given a series of numbers find the missing element - Sorted Array Or UnSorted Array
 
 function findMissing(arr,range){
     var sum = 0;
