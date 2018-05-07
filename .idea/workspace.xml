@@ -6,10 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting Algorithms/quickSort.js" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting Algorithms/quickSort.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/factorial.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci.js" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/towerOfHanoi.js" beforeDir="false" afterPath="$PROJECT_DIR$/towerOfHanoi.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -77,11 +74,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="towerOfHanoi.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="towerOfHanoi.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/towerOfHanoi.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+            <state relative-caret-position="36">
+              <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="missingElementSorted.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/missingElementSorted.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -91,15 +97,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mergeSort.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sorting Algorithms/mergeSort.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="30" lean-forward="true" selection-start-line="23" selection-start-column="30" selection-end-line="23" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -134,7 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week2/decimalToBinary.js" />
         <option value="$PROJECT_DIR$/week2/4.js" />
         <option value="$PROJECT_DIR$/week2/5.js" />
         <option value="$PROJECT_DIR$/week2/6.js" />
@@ -185,6 +181,7 @@
         <option value="$PROJECT_DIR$/factorial.html" />
         <option value="$PROJECT_DIR$/fibonacci.js" />
         <option value="$PROJECT_DIR$/towerOfHanoi.js" />
+        <option value="$PROJECT_DIR$/missingElementSorted.js" />
       </list>
     </option>
   </component>
@@ -262,30 +259,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.towerOfHanoi.js">
+  <component name="RunManager" selected="Node.js.missingElementSorted.js">
     <configuration name="factorial.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/factorial.html" />
-    <configuration name="3LongestSubStringWithoutRepeatingCharecters.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="3LongestSubStringWithoutRepeatingCharecters.js" working-dir="$PROJECT_DIR$" />
     <configuration name="9.html" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week2/9.html" working-dir="$PROJECT_DIR$/week2" />
     <configuration name="firstNonRepeatingCharacter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="firstNonRepeatingCharacter.js" working-dir="$PROJECT_DIR$" />
     <configuration name="matrixAddition.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="matrixAddition.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="missingElementSorted.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="missingElementSorted.js" working-dir="$PROJECT_DIR$" />
     <configuration name="quickSort.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="quickSort.js" working-dir="$PROJECT_DIR$/Sorting Algorithms" />
     <configuration name="towerOfHanoi.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="towerOfHanoi.js" working-dir="$PROJECT_DIR$" />
     <list>
       <item itemvalue="Node.js.9.html" />
       <item itemvalue="Node.js.matrixAddition.js" />
-      <item itemvalue="Node.js.3LongestSubStringWithoutRepeatingCharecters.js" />
       <item itemvalue="Node.js.firstNonRepeatingCharacter.js" />
       <item itemvalue="Node.js.quickSort.js" />
       <item itemvalue="JavaScript Debug.factorial.html" />
       <item itemvalue="Node.js.towerOfHanoi.js" />
+      <item itemvalue="Node.js.missingElementSorted.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.missingElementSorted.js" />
         <item itemvalue="Node.js.towerOfHanoi.js" />
         <item itemvalue="JavaScript Debug.factorial.html" />
         <item itemvalue="Node.js.quickSort.js" />
         <item itemvalue="Node.js.firstNonRepeatingCharacter.js" />
-        <item itemvalue="Node.js.3LongestSubStringWithoutRepeatingCharecters.js" />
       </list>
     </recent_temporary>
   </component>
@@ -326,12 +323,12 @@
       <workItem from="1525421055654" duration="1478000" />
       <workItem from="1525497868015" duration="3117000" />
       <workItem from="1525520992242" duration="20045000" />
-      <workItem from="1525691082229" duration="229000" />
+      <workItem from="1525691082229" duration="1489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108538000" />
+    <option name="totallyTimeSpent" value="109798000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -341,7 +338,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21047008" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21047008" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3258547" />
@@ -397,13 +394,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/towerOfHanoi.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/cssTask.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="855">
@@ -731,8 +721,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/towerOfHanoi.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        <state relative-caret-position="36">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/missingElementSorted.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>

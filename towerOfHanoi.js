@@ -16,5 +16,5 @@ function towersOfHanoi(N,fromPeg,toPeg,extraPeg){
     }
 }
 
-towersOfHanoi(3,"A","B","C");
+towersOfHanoi(3,"T1","T2","T3");
 
