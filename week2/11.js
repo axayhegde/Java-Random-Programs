@@ -4,7 +4,7 @@
 
 function numberSwap(a,b){
 
-// Without Temp variable
+// Without Temp variables
     a = a+b;
     b = a-b;
     a = a - b;

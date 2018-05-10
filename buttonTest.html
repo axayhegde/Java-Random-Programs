@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Button Test</title>
+</head>
+
+<body>
+<div id="testContainer">
+    <button id="fbutton" onclick="doubleMe()">Test</button>
+</div>
+</body>
+
+
+<script>
+
+    function doubleMe() {
+        var buttonT = document.getElementById("fbutton");
+        buttonT.parentNode.removeChild(buttonT);
+
+
+            // Adds an element to the document
+            var p = document.getElementById("testContainer");
+            var newElement = document.createElement("button");
+            newElement.innerHTML = "new Button 1";
+            p.appendChild(newElement);
+
+        var p = document.getElementById("testContainer");
+        var newElement = document.createElement("button");
+        newElement.innerHTML = "new Button 2";
+        p.appendChild(newElement);
+
+
+    }
+
+</script>
+</html>
