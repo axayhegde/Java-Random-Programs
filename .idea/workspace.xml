@@ -3,6 +3,7 @@
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/numberSwap.js" line="7" mnemonic="9" />
     <bookmark url="file://$PROJECT_DIR$/factorial.html" line="18" />
+    <bookmark url="file://$PROJECT_DIR$/arrayHelper/arrayOfObjects.js" line="11" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="">
@@ -20,38 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="11.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/week2/11.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" selection-start-line="30" selection-end-line="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bdoStringReversal.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bdoStringReversal.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="buttonTest.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/buttonTest.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="javascript2.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javascript2.js">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file leaf-file-name="JavaScript1.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript1.html">
           <provider selected="true" editor-type-id="text-editor" />
@@ -84,13 +53,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="paranthesisMatchingReduce.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="paranthesisMatchingReduce.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/arrayHelper/paranthesisMatchingReduce.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+            <state relative-caret-position="252">
+              <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arrayOfObjects.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayHelper/arrayOfObjects.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="promises.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Promises/promises.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayHelper/testArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="some.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayHelper/some.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="every.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayHelper/every.js">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -114,9 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week2/13.js" />
-        <option value="$PROJECT_DIR$/week2/15.js" />
-        <option value="$PROJECT_DIR$/week2/14.js" />
         <option value="$PROJECT_DIR$/week2/16.js" />
         <option value="$PROJECT_DIR$/April13thProblem/problem1.js" />
         <option value="$PROJECT_DIR$/April13thProblem/problem2.js" />
@@ -165,6 +164,9 @@
         <option value="$PROJECT_DIR$/arrayHelper/mapandFilterFind.js" />
         <option value="$PROJECT_DIR$/arrayHelper/reduce.js" />
         <option value="$PROJECT_DIR$/arrayHelper/paranthesisMatchingReduce.js" />
+        <option value="$PROJECT_DIR$/arrayHelper/testArray.js" />
+        <option value="$PROJECT_DIR$/arrayHelper/arrayOfObjects.js" />
+        <option value="$PROJECT_DIR$/Promises/promises.js" />
       </list>
     </option>
   </component>
@@ -178,10 +180,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="64" />
-    <option name="y" value="-4" />
-    <option name="width" value="1857" />
-    <option name="height" value="1085" />
+    <option name="x" value="744" />
+    <option name="y" value="156" />
+    <option name="width" value="1847" />
+    <option name="height" value="789" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -203,12 +205,6 @@
               <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
               <item name="April13thProblem" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="April13thProblem" type="462c0819:PsiDirectoryNode" />
-              <item name="week3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
@@ -263,30 +259,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.paranthesisMatchingReduce.js">
-    <configuration name="11.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="11.js" working-dir="$PROJECT_DIR$/week2" />
+  <component name="RunManager" selected="Node.js.promises.js">
     <configuration name="9.html" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week2/9.html" working-dir="$PROJECT_DIR$/week2" />
-    <configuration name="forEach.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="forEach.js" working-dir="$PROJECT_DIR$/arrayHelper" />
-    <configuration name="mapandFilterFind.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/arrayHelper/mapandFilterFind.js" working-dir="$PROJECT_DIR$/arrayHelper" />
+    <configuration name="arrayOfObjects.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="arrayOfObjects.js" working-dir="$PROJECT_DIR$/arrayHelper" />
     <configuration name="matrixAddition.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="matrixAddition.js" working-dir="$PROJECT_DIR$" />
     <configuration name="paranthesisMatchingReduce.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="paranthesisMatchingReduce.js" working-dir="$PROJECT_DIR$/arrayHelper" />
+    <configuration name="promises.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="promises.js" working-dir="$PROJECT_DIR$/Promises" />
     <configuration name="reduce.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reduce.js" working-dir="$PROJECT_DIR$/arrayHelper" />
+    <configuration name="testArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="testArray.js" working-dir="$PROJECT_DIR$/arrayHelper" />
     <list>
       <item itemvalue="Node.js.9.html" />
       <item itemvalue="Node.js.matrixAddition.js" />
-      <item itemvalue="Node.js.11.js" />
-      <item itemvalue="Node.js.forEach.js" />
-      <item itemvalue="Node.js.mapandFilterFind.js" />
       <item itemvalue="Node.js.reduce.js" />
       <item itemvalue="Node.js.paranthesisMatchingReduce.js" />
+      <item itemvalue="Node.js.testArray.js" />
+      <item itemvalue="Node.js.arrayOfObjects.js" />
+      <item itemvalue="Node.js.promises.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.promises.js" />
+        <item itemvalue="Node.js.arrayOfObjects.js" />
+        <item itemvalue="Node.js.testArray.js" />
         <item itemvalue="Node.js.paranthesisMatchingReduce.js" />
         <item itemvalue="Node.js.reduce.js" />
-        <item itemvalue="Node.js.mapandFilterFind.js" />
-        <item itemvalue="Node.js.forEach.js" />
-        <item itemvalue="Node.js.11.js" />
       </list>
     </recent_temporary>
   </component>
@@ -335,12 +331,15 @@
       <workItem from="1526015775403" duration="753000" />
       <workItem from="1526107459822" duration="140000" />
       <workItem from="1527066296824" duration="37000" />
-      <workItem from="1527071589231" duration="1899000" />
+      <workItem from="1527071589231" duration="2623000" />
+      <workItem from="1527134077085" duration="553000" />
+      <workItem from="1527136718377" duration="4269000" />
+      <workItem from="1527156410984" duration="625000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="124768000" />
+    <option name="totallyTimeSpent" value="130939000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -350,12 +349,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21029572" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21029572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3253012" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.59938526" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.28148958" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.59938526" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -368,19 +367,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.17970859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21047008" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.59938526" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3258547" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -398,43 +397,19 @@
           <line>5</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/arrayHelper/testArray.js</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="5" />
+      <option name="time" value="9" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/OOPSInJavaScript/test3.js" />
-    <entry file="file://$PROJECT_DIR$/OOPSInJavaScript/basicOOPS.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="886">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/April13thProblem/problem2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/April13thProblem/linearSearch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/April13thProblem/binarySearch.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/April13thProblem/negativeBinaryToDecimal.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="558">
@@ -722,6 +697,12 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/arrayHelper/some.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayHelper/every.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/arrayHelper/mapandFilterFind.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -738,8 +719,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/arrayHelper/paranthesisMatchingReduce.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
+        <state relative-caret-position="252">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayHelper/testArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayHelper/arrayOfObjects.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Promises/promises.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
