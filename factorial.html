@@ -11,13 +11,14 @@
             return (number * findFact(number - 1));
     }
 
-    console.log(findFact(25));
+    /*console.log(findFact(5));*/
 
     function findFactorialForLoops(number) {
         var result = 1;
-            for (var i = number; i < number; i--) {
-                result = result * number;
+            for(var i = 0; i < number; i++){
+                result = result * (number - i);
             }
+            return result
     }
 
     console.log(findFactorialForLoops(5));
