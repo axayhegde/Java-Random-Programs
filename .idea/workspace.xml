@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/arrayHelper/arrayOfObjects.js" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="promises.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Promises/promises.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="countVowelsClean.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/countVowelsClean.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="factorial.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/factorial.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -74,11 +54,48 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="longestCommonSubString.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="longestCommonSubString.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest_Common_SubString/longestCommonSubString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+            <state relative-caret-position="990">
+              <caret line="55" column="53" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reduceArray.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arrayIteration/reduceArray.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mutiplicationTableGeneration.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mutiplicationTableGeneration/mutiplicationTableGeneration.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="504">
+              <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="formTest.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mutiplicationTableGeneration/formTest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+              <folding>
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -93,15 +110,6 @@
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fibonacci.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fibonacci.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -138,10 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/week2/12.html" />
-        <option value="$PROJECT_DIR$/April13thProblem/linearSearch.js" />
-        <option value="$PROJECT_DIR$/April13thProblem/binarySearch.js" />
-        <option value="$PROJECT_DIR$/week2/17.js" />
         <option value="$PROJECT_DIR$/April13thProblem/negativeBinaryToDecimal.js" />
         <option value="$PROJECT_DIR$/April13thProblem/selectionSort.js" />
         <option value="$PROJECT_DIR$/selfDividingNumber.js" />
@@ -189,6 +193,10 @@
         <option value="$PROJECT_DIR$/longestCommonSubString.js" />
         <option value="$PROJECT_DIR$/Longest_Common_SubString/ReadMe.md" />
         <option value="$PROJECT_DIR$/Longest_Common_SubString/longestCommonSubString.js" />
+        <option value="$PROJECT_DIR$/arrayIteration/reduceArray.js" />
+        <option value="$PROJECT_DIR$/dynamicArrayGeneration/generateMultiplicationGenration.html" />
+        <option value="$PROJECT_DIR$/mutiplicationTableGeneration/mutiplicationTableGeneration.html" />
+        <option value="$PROJECT_DIR$/mutiplicationTableGeneration/formTest.html" />
       </list>
     </option>
   </component>
@@ -225,7 +233,17 @@
             <path>
               <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="arrayIteration" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
               <item name="Longest_Common_SubString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
+              <item name="mutiplicationTableGeneration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,30 +281,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.longestCommonSubString.js">
-    <configuration name="factorial.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/factorial.html" />
+  <component name="RunManager" selected="JavaScript Debug.formTest.html">
+    <configuration name="formTest.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/mutiplicationTableGeneration/formTest.html" />
+    <configuration name="mutiplicationTableGeneration.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/mutiplicationTableGeneration/mutiplicationTableGeneration.html" />
+    <configuration name="mutiplicationTableGeneration.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/dynamicArrayGeneration/mutiplicationTableGeneration.html" />
     <configuration name="9.html" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week2/9.html" working-dir="$PROJECT_DIR$/week2" />
-    <configuration name="convertNumberToRomanNumeral.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="convertNumberToRomanNumeral.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="fibonacci.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="fibonacci.js" working-dir="$PROJECT_DIR$" />
     <configuration name="longestCommonSubString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="longestCommonSubString.js" working-dir="$PROJECT_DIR$/Longest_Common_SubString" />
     <configuration name="matrixAddition.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="matrixAddition.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="promiseCheck.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="promiseCheck.js" working-dir="$PROJECT_DIR$/miniAssignmentsJune9th" />
+    <configuration name="reduceArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reduceArray.js" working-dir="$PROJECT_DIR$/arrayIteration" />
     <list>
       <item itemvalue="Node.js.9.html" />
       <item itemvalue="Node.js.matrixAddition.js" />
-      <item itemvalue="JavaScript Debug.factorial.html" />
-      <item itemvalue="Node.js.fibonacci.js" />
-      <item itemvalue="Node.js.convertNumberToRomanNumeral.js" />
-      <item itemvalue="Node.js.promiseCheck.js" />
       <item itemvalue="Node.js.longestCommonSubString.js" />
+      <item itemvalue="Node.js.reduceArray.js" />
+      <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html" />
+      <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html (1)" />
+      <item itemvalue="JavaScript Debug.formTest.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.formTest.html" />
+        <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html (1)" />
+        <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html" />
+        <item itemvalue="Node.js.reduceArray.js" />
         <item itemvalue="Node.js.longestCommonSubString.js" />
-        <item itemvalue="Node.js.promiseCheck.js" />
-        <item itemvalue="Node.js.convertNumberToRomanNumeral.js" />
-        <item itemvalue="JavaScript Debug.factorial.html" />
-        <item itemvalue="Node.js.fibonacci.js" />
       </list>
     </recent_temporary>
   </component>
@@ -354,12 +372,12 @@
       <workItem from="1528531640815" duration="1562000" />
       <workItem from="1528545151661" duration="1152000" />
       <workItem from="1528603212426" duration="1592000" />
-      <workItem from="1528947586203" duration="259000" />
+      <workItem from="1528947586203" duration="2840000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="162732000" />
+    <option name="totallyTimeSpent" value="165313000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -425,27 +443,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/numberOfZeros.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5976">
-          <caret line="332" lean-forward="true" selection-start-line="332" selection-end-line="332" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/week2/3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/4.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
@@ -754,8 +751,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Longest_Common_SubString/longestCommonSubString.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
+        <state relative-caret-position="990">
+          <caret line="55" column="53" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arrayIteration/reduceArray.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutiplicationTableGeneration/mutiplicationTableGeneration.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="35" lean-forward="true" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mutiplicationTableGeneration/formTest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
