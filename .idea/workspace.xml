@@ -5,9 +5,7 @@
     <bookmark url="file://$PROJECT_DIR$/arrayHelper/arrayOfObjects.js" line="11" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -65,20 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showDateTIme.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="showDateTIme.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTIme.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            <state relative-caret-position="324">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="showDateTime.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTime.html">
+      <file leaf-file-name="generateAllCombForString.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/superBasicPrograms/generateAllCombForString.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+            <state relative-caret-position="342">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -120,7 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/May3rd/LinkedList.js" />
         <option value="$PROJECT_DIR$/Sorting Algorithms/bubbleSort.js" />
         <option value="$PROJECT_DIR$/Sorting Algorithms/insertionSort.js" />
         <option value="$PROJECT_DIR$/stackJs.js" />
@@ -171,6 +168,7 @@
         <option value="$PROJECT_DIR$/superBasicPrograms/showDateTIme.js" />
         <option value="$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTime.html" />
         <option value="$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTIme.js" />
+        <option value="$PROJECT_DIR$/superBasicPrograms/generateAllCombForString.js" />
       </list>
     </option>
   </component>
@@ -225,12 +223,6 @@
               <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
               <item name="superBasicPrograms" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaScript-Random-Programs" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaScript-Random-Programs" type="462c0819:PsiDirectoryNode" />
-              <item name="superBasicPrograms" type="462c0819:PsiDirectoryNode" />
-              <item name="showDateTime" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -267,30 +259,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.showDateTIme.js">
+  <component name="RunManager" selected="Node.js.generateAllCombForString.js">
     <configuration name="formTest.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/mutiplicationTableGeneration/formTest.html" />
     <configuration name="mutiplicationTableGeneration.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/mutiplicationTableGeneration/mutiplicationTableGeneration.html" />
     <configuration name="mutiplicationTableGeneration.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JavaScript-Random-Programs/dynamicArrayGeneration/mutiplicationTableGeneration.html" />
     <configuration name="9.html" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week2/9.html" working-dir="$PROJECT_DIR$/week2" />
+    <configuration name="generateAllCombForString.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="generateAllCombForString.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
     <configuration name="matrixAddition.js" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="matrixAddition.js" working-dir="$PROJECT_DIR$" />
-    <configuration name="reduceArray.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="reduceArray.js" working-dir="$PROJECT_DIR$/arrayIteration" />
     <configuration name="showDateTIme.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="showDateTIme.js" working-dir="$PROJECT_DIR$/superBasicPrograms/showDateTime" />
     <list>
       <item itemvalue="Node.js.9.html" />
       <item itemvalue="Node.js.matrixAddition.js" />
-      <item itemvalue="Node.js.reduceArray.js" />
       <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html" />
       <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html (1)" />
       <item itemvalue="JavaScript Debug.formTest.html" />
       <item itemvalue="Node.js.showDateTIme.js" />
+      <item itemvalue="Node.js.generateAllCombForString.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.generateAllCombForString.js" />
         <item itemvalue="Node.js.showDateTIme.js" />
         <item itemvalue="JavaScript Debug.formTest.html" />
         <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html (1)" />
         <item itemvalue="JavaScript Debug.mutiplicationTableGeneration.html" />
-        <item itemvalue="Node.js.reduceArray.js" />
       </list>
     </recent_temporary>
   </component>
@@ -359,12 +351,12 @@
       <workItem from="1528545151661" duration="1152000" />
       <workItem from="1528603212426" duration="1592000" />
       <workItem from="1528947586203" duration="3396000" />
-      <workItem from="1529389568952" duration="666000" />
+      <workItem from="1529389568952" duration="1448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166535000" />
+    <option name="totallyTimeSpent" value="167317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -430,13 +422,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week2/6.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="12" lean-forward="true" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/7.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -753,14 +738,21 @@
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTime.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
+          <caret line="3" column="44" lean-forward="true" selection-start-line="3" selection-start-column="44" selection-end-line="3" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTIme.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        <state relative-caret-position="324">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/superBasicPrograms/generateAllCombForString.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
