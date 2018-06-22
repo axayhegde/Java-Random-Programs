@@ -6,7 +6,9 @@
     <bookmark url="file://$PROJECT_DIR$/superBasicPrograms/capsFirstLetter.js" line="15" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="" />
+    <list default="true" id="2049ff50-b16d-4074-87e7-363f89769cd9" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,15 +21,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="promiseCheck.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/miniAssignmentsJune9th/promiseCheck.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="longestCommonSubString.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Longest_Common_SubString/longestCommonSubString.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -41,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTIme.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -50,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/generateAllCombForString.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -68,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/capsFirstLetter.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+              <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -77,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/findADay.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -91,11 +84,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="checkIfNumberInRange.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="checkIfNumberInRange.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/superBasicPrograms/checkIfNumberInRange.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="108">
               <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="armStrongNumber.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/armStrongNumber.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -137,7 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Sorting Algorithms/mergeSort.js" />
         <option value="$PROJECT_DIR$/palindrome.js" />
         <option value="$PROJECT_DIR$/3LongestSubStringWithoutRepeatingCharecters.js" />
         <option value="$PROJECT_DIR$/firstNonRepeatingCharacter.js" />
@@ -188,6 +189,7 @@
         <option value="$PROJECT_DIR$/superBasicPrograms/findADay.js" />
         <option value="$PROJECT_DIR$/superBasicPrograms/CtoF.js" />
         <option value="$PROJECT_DIR$/superBasicPrograms/checkIfNumberInRange.js" />
+        <option value="$PROJECT_DIR$/armStrongNumber.js" />
       </list>
     </option>
   </component>
@@ -278,10 +280,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.checkIfNumberInRange.js">
+  <component name="RunManager" selected="Node.js.armStrongNumber.js">
     <configuration name="9.html" type="NodeJSConfigurationType" factoryName="Node.js" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/week2/9.html" working-dir="$PROJECT_DIR$/week2" />
     <configuration name="CtoF.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="CtoF.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
-    <configuration name="alpahbeticalOrder.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="alpahbeticalOrder.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
+    <configuration name="armStrongNumber.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="armStrongNumber.js" working-dir="$PROJECT_DIR$" />
     <configuration name="capsFirstLetter.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="capsFirstLetter.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
     <configuration name="checkIfNumberInRange.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="checkIfNumberInRange.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
     <configuration name="findADay.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" nameIsGenerated="true" path-to-js-file="findADay.js" working-dir="$PROJECT_DIR$/superBasicPrograms" />
@@ -289,19 +291,19 @@
     <list>
       <item itemvalue="Node.js.9.html" />
       <item itemvalue="Node.js.matrixAddition.js" />
-      <item itemvalue="Node.js.alpahbeticalOrder.js" />
       <item itemvalue="Node.js.capsFirstLetter.js" />
       <item itemvalue="Node.js.findADay.js" />
       <item itemvalue="Node.js.CtoF.js" />
       <item itemvalue="Node.js.checkIfNumberInRange.js" />
+      <item itemvalue="Node.js.armStrongNumber.js" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.armStrongNumber.js" />
         <item itemvalue="Node.js.checkIfNumberInRange.js" />
         <item itemvalue="Node.js.CtoF.js" />
         <item itemvalue="Node.js.findADay.js" />
         <item itemvalue="Node.js.capsFirstLetter.js" />
-        <item itemvalue="Node.js.alpahbeticalOrder.js" />
       </list>
     </recent_temporary>
   </component>
@@ -371,12 +373,13 @@
       <workItem from="1528603212426" duration="1592000" />
       <workItem from="1528947586203" duration="3396000" />
       <workItem from="1529389568952" duration="3368000" />
-      <workItem from="1529413260728" duration="2805000" />
+      <workItem from="1529413260728" duration="3480000" />
+      <workItem from="1529591393569" duration="1902000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="172042000" />
+    <option name="totallyTimeSpent" value="174619000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="27" width="1853" height="1053" extended-state="6" />
@@ -386,12 +389,12 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.21029572" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27929902" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.27868852" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.59938526" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -404,19 +407,19 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.17970859" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.21047008" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.59938526" />
       <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3258547" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="2" side_tool="true" />
     </layout-to-restore>
   </component>
@@ -442,13 +445,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/week2/14.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week2/15.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -717,7 +713,7 @@
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/generateAllCombForString.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -731,28 +727,22 @@
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/showDateTime/showDateTIme.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/superBasicPrograms/reverseStringOneChar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/superBasicPrograms/reverseStringOneChar.js" />
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/capsFirstLetter.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+          <caret line="15" column="9" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/superBasicPrograms/findADay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -767,6 +757,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
           <caret line="6" column="29" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/armStrongNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
         </state>
       </provider>
     </entry>
